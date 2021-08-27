@@ -1,0 +1,18 @@
+{
+    "id": 2508202120210825,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "doggy mc dogface",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "STA training"
+      }
+    ],
+    "status": "available"
+  }
