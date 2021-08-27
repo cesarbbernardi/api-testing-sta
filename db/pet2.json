@@ -4,7 +4,7 @@
       "id": 1,
       "name": "dog"
     },
-    "name": "doggy mc dogface",
+    "name": "face mc doggerson",
     "photoUrls": [
       "string"
     ],
@@ -14,5 +14,5 @@
         "name": "STA training"
       }
     ],
-    "status": "available"
+    "status": "unavailable"
   }
