@@ -78,7 +78,7 @@ public class Pet {
     }
 
     @Test
-    (priority = 2)
+    (priority = 4)
     public void deletePet() throws IOException { // searches for a pet using the id from the JSON file
         String petId = "2508202120210825";
 
